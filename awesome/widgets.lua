@@ -91,7 +91,7 @@ function battery_widget()
             end
             return (" "..battery_icon..'%s%% '):format(args[2])
         end,
-        20,
+        5,
         "BAT1")
     return battery_widget
 end
