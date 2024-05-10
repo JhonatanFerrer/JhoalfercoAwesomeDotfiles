@@ -10,6 +10,9 @@ My personal dotfiles for awesomeWM, rofi, fastfetch, picom and kitty. My config 
 - alsa-utils
 - flameshot
 - playerctl
+- firacode nerdfont
+- ubuntu nerdfont
+Also, I recommend the Skeuos Blue Dark GTK Theme and Papirus icons
 
 ## How to install
 Just paste all the folders in .config
