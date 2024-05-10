@@ -1,8 +1,10 @@
 # JhoalfercoLinuxDotfiles
 My personal dotfiles for awesomeWM, rofi, fastfetch, picom and kitty. My config is very simple and minimal but I like that :3 
 
+Note: I use the awesomewm stable release, I don't know what differences there are respect the git versión
+
 ## Dependencies
-- vicious (library for Awesome widgets)
+- vicious (library for awesome widgets)
 - firefox (web browser setted in the shortcuts config)
 - thunar (file explorer setted in the shortcuts config)
 - kitty (terminal setted in the shortcuts config)
