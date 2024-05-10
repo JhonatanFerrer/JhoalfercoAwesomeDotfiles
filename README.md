@@ -2,18 +2,19 @@
 My personal dotfiles for awesomeWM, rofi, fastfetch, picom and kitty. My config is very simple and minimal but I like that :3 
 
 ## Dependencies
-- vicious
-- firefox
-- thunar
-- kitty
-- neovim
-- alsa-utils
-- flameshot
-- playerctl
-- firacode nerdfont
-- ubuntu nerdfont
+- vicious (library for Awesome widgets)
+- firefox (web browser setted in the shortcuts config)
+- thunar (file explorer setted in the shortcuts config)
+- kitty (terminal setted in the shortcuts config)
+- neovim (text editor setted to edit rc.lua)
+- alsa-utils (needed for volume control)
+- flameshot (needed for screenshots)
+- playerctl (needed for play/pause multimedia)
+- imagemagick (needed for display fastfetch image)
+- [firacode nerdfont](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip) (terminal font)
+- [ubuntu nerdfont](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Ubuntu.zip) (awesome font)
   
-Also, I recommend the Skeuos Blue Dark GTK Theme and Papirus icons
+Also, I recommend the [Skeuos Blue Dark](https://www.pling.com/p/1441725) GTK theme and [Papirus](https://www.pling.com/p/1166289) icons
 
 ## How to install
 Just paste all the folders in .config
