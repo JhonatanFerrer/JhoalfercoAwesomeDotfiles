@@ -22,6 +22,17 @@ Also, I recommend the [Skeuos Blue Dark](https://www.pling.com/p/1441725) GTK th
 ## How to install
 Just paste all the folders in .config
 
+## How to use
+You can read the shortcuts pressing super+s. However, here are some useful shortcuts:
+
+- super+enter: open the terminal
+- super+r: open rofi application menu
+- super+tab: open rofi windows menu
+- super+1-9: change the tag
+- super+q: quit the focus client(window)
+- super+shift+q: open the rofi power menu
+
+
 ## ToDo
 - Make rofi menus for network and bluetooth connection
 - Maybe add extra color themes with a menu to swap between them
