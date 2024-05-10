@@ -25,6 +25,7 @@ Just paste all the folders in .config
 ## Images 
 ![2024-05-10_00-18](https://github.com/JhonatanFerrer/JhoalfercoLinuxDotfiles/assets/111335841/2344f3a4-9e80-46b5-a030-3b23e888d4cc)
 ![2024-05-10_00-21](https://github.com/JhonatanFerrer/JhoalfercoLinuxDotfiles/assets/111335841/daa2c964-28c0-4c23-997e-92a9d65b3a39)
+![2024-05-10_08-51](https://github.com/JhonatanFerrer/JhoalfercoLinuxDotfiles/assets/111335841/db37b8a3-062f-457c-959b-fde729e61bfe)
 ![2024-05-10_00-24](https://github.com/JhonatanFerrer/JhoalfercoLinuxDotfiles/assets/111335841/6a440ff6-21e2-4a44-a921-f1d0bd55d9b1)
 ![2024-05-10_00-34](https://github.com/JhonatanFerrer/JhoalfercoLinuxDotfiles/assets/111335841/b7d51051-eb08-4f0d-95b7-19dc84cdfdd5)
 ![2024-05-10_00-27](https://github.com/JhonatanFerrer/JhoalfercoLinuxDotfiles/assets/111335841/daad075b-9664-4fca-8766-222c3887d796)
