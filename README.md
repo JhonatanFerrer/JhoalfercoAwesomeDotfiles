@@ -12,6 +12,7 @@ My personal dotfiles for awesomeWM, rofi, fastfetch, picom and kitty. My config 
 - playerctl
 - firacode nerdfont
 - ubuntu nerdfont
+  
 Also, I recommend the Skeuos Blue Dark GTK Theme and Papirus icons
 
 ## How to install
