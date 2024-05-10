@@ -15,6 +15,7 @@ Note: I use the awesomewm stable release, I don't know what differences there ar
 - imagemagick (needed for display fastfetch image)
 - [firacode nerdfont](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip) (terminal font)
 - [ubuntu nerdfont](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Ubuntu.zip) (awesome font)
+- nyancat (nyancat)
   
 Also, I recommend the [Skeuos Blue Dark](https://www.pling.com/p/1441725) GTK theme and [Papirus](https://www.pling.com/p/1166289) icons
 
