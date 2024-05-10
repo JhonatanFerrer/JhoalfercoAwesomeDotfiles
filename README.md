@@ -34,7 +34,7 @@ You can read the shortcuts pressing super+s. However, here are some useful short
 
 
 ## ToDo
-- Make rofi menus for network and bluetooth connection
+- Make rofi menus for network and bluetooth connection (the bluetooth widget are useless at the moment XD)
 - Maybe add extra color themes with a menu to swap between them
 
 ## Images 
