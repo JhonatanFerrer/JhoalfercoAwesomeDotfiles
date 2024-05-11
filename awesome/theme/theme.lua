@@ -102,8 +102,7 @@ theme.titlebar_maximized_button_normal_active = themes_path.."default/titlebar/m
 theme.titlebar_maximized_button_focus_active  = themes_path.."default/titlebar/maximized_focus_active.png"
 
 theme.wallpaper = "~/.config/awesome/theme/wallpaper2.jpg"
---theme.wallpaper = "~/.config/awesome/theme/wallpaper2.png"
-
+-- The wallpaper isn't mine, I found it in DevianArt. Here is the link https://www.deviantart.com/waifuxart/art/Wallpaper-Series-1-968741815
 
 -- You can use your own layout icons like this:
 theme.layout_fairh = themes_path.."default/layouts/fairhw.png"
